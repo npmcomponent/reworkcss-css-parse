@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [reworkcss/css-parse](http://github.com/reworkcss/css-parse). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/reworkcss-css-parse`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # css-parse [![Build Status](https://travis-ci.org/reworkcss/css-parse.png)](https://travis-ci.org/reworkcss/css-parse)
 
   JavaScript CSS parser for nodejs and the browser.
